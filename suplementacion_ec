@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Sitio Web</title>
+    <link rel="stylesheet" href="estilos.css">
+    
+</head>
+<body>
+
+    <header>
+        <h1>Mi Sitio Web</h1>
+        <p>Bievenido a mi sitio web espero te guste lo que veas</p>
+    </header>
+   
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="acerca.html">Acerca de</a></li>
+            <li><a href="servicios.html">Servicios</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="destacado">
+            <h2>Artículo Destacado</h2>
+            <p>¡Descubre las últimas novedades!</p>
+        </section>
+
+        <section id="contenido-principal">
+            <article>
+                <h2>Título del Artículo 1</h2>
+                <p>Contenido del artículo 1...</p>
+            </article>
+
+            <article>
+                <h2>Título del Artículo 2</h2>
+                <p>Contenido del artículo 2...</p>
+            </article>
+        </section>
+    </main>
+
+    <aside>
+        <h2>Panel Lateral</h2>
+        <p>Información adicional, enlaces, etc.</p>
+    </aside>
+
+    <footer>
+        <p>&copy; 2024 Mi Sitio Web. Todos los derechos reservados.</p>
+    </footer>
+
+    <!-- <script src="script.js"></script> -->
+</body>
+</html>
+<!-- Dentro de la sección de contenido principal -->
+<section id="articulo-destacado">
+    <h2>Artículo Destacado</h2>
+    <article>
+        <h3>Rutina de Entrenamiento Intenso</h3>
+        <p>Descubre una rutina de entrenamiento intensa para construir músculo y mejorar tu resistencia. ¡Prepárate para desafiar tus límites!</p>
+        <p><a href="#">Leer más</a></p>
+    </article>
+</section>
+<!-- Dentro de la sección de contenido principal -->
+<section id="articulo-destacado">
+    <h2>Artículo Destacado</h2>
+    <article>
+        <h3>Consejos de Nutrición para Tu Rutina de Ejercicios</h3>
+        <p>Descubre cómo mantener una dieta equilibrada que respalde tus objetivos de fitness. Encuentra alimentos que potencien tu rendimiento y recuperación.</p>
+        <p><a href="#">Leer más</a></p>
+    </article>
+</section>
+<!-- Dentro de la sección de contenido principal -->
+<section id="articulo-destacado">
+    <h2>Artículo Destacado</h2>
+    <article>
+        <h3>Equipamiento Esencial para Tu Gimnasio en Casa</h3>
+        <p>Descubre qué equipos son esenciales para tu gimnasio en casa. Obtén recomendaciones sobre pesas, bancos, y más.</p>
+        <p><a href="#">Leer más</a></p>
+    </article>
+</section>
+<!-- Dentro de la sección de contenido principal -->
+<section id="articulo-destacado">
+    <h2>Artículo Destacado</h2>
+    <article>
+        <h3>Guía para Principiantes en el Mundo del Fitness</h3>
+        <p>Si eres nuevo en el fitness, aquí encontrarás consejos prácticos para comenzar tu viaje. Desde ejercicios básicos hasta planificación de comidas.</p>
+        <p><a href="#">Leer más</a></p>
+    </article>
+</section>
+<!-- Dentro de la sección de contenido principal -->
+<section id="articulo-destacado">
+    <h2>Artículo Destacado</h2>
+    <article>
+        <h3>Historias Inspiradoras: Transformación Fitness</h3>
+        <p>Lee historias reales de personas que han logrado increíbles transformaciones físicas y mentales gracias al fitness. ¡Inspírate y únete al viaje!</p>
+        <p><a href="#">Leer más</a></p>
+    </article>
+</section>
